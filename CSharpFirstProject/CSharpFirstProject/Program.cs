@@ -8,7 +8,7 @@ namespace CSharpFirstProject
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine(" this just the begining");
+            Console.WriteLine(" this is just the begining of the end ");
         }
     }
 }
